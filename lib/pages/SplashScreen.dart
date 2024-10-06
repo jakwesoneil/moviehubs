@@ -18,7 +18,14 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
 
   @override
+  void initState() {
+    super.initState();
+    Future.delayed(Duration(seconds:1)).then(
+      (_) => widget.onInitializationComplete(),
+    );
+  }
 
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'MovieHub', 
