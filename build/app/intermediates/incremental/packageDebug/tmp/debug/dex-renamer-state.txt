@@ -1,12 +1,12 @@
-#Sat Oct 05 21:23:19 PST 2024
+#Sun Oct 06 22:12:15 PST 2024
 path.3=1/classes.dex
 path.2=15/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=C\:\\flutter_projects\\moviehub\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.2=C\:\\flutter_projects\\moviehub\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.1=C\:\\flutter_projects\\moviehub\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\flutter_projects\\moviehub\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.3=C\:\\flutter_projects\\moviehubs\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\flutter_projects\\moviehubs\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.1=C\:\\flutter_projects\\moviehubs\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\flutter_projects\\moviehubs\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

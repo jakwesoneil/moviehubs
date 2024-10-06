@@ -604,7 +604,7 @@
             "outputFile": "com.example.moviehub.app-merged_res-26:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\flutter_projects\\moviehub\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\flutter_projects\\moviehubs\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1214,7 +1214,24 @@
                     }
                 },
                 {
-                    "source": "C:\\flutter_projects\\moviehub\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Jakwes\\.gradle\\caches\\transforms-3\\52dfd6d7c21c1e36dbdf0d304093d642\\transformed\\lifecycle-viewmodel-2.7.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "143",
+                        "startColumns": "4",
+                        "startOffsets": "7045",
+                        "endColumns": "49",
+                        "endOffsets": "7090"
+                    }
+                },
+                {
+                    "source": "C:\\flutter_projects\\moviehubs\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1230,23 +1247,6 @@
                         "endLines": "158,161",
                         "endColumns": "12,12",
                         "endOffsets": "8070,8239"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Jakwes\\.gradle\\caches\\transforms-3\\52dfd6d7c21c1e36dbdf0d304093d642\\transformed\\lifecycle-viewmodel-2.7.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "143",
-                        "startColumns": "4",
-                        "startOffsets": "7045",
-                        "endColumns": "49",
-                        "endOffsets": "7090"
                     }
                 },
                 {

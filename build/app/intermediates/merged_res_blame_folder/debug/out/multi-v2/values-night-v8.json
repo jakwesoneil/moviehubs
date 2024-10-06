@@ -4,7 +4,7 @@
             "outputFile": "com.example.moviehub.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\flutter_projects\\moviehub\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\flutter_projects\\moviehubs\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

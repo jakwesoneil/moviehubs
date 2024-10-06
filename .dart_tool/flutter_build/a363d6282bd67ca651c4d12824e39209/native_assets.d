@@ -1,0 +1,1 @@
+ C:\\flutter_projects\\moviehubs\\.dart_tool\\flutter_build\\a363d6282bd67ca651c4d12824e39209\\native_assets.yaml: 
